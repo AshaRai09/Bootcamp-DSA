@@ -1,0 +1,11 @@
+import java.util.*;
+public class groupAnagram{
+  public static List<List<string>> GroupAnagrams(String str[]){
+    HashMap<String , List<String
+  }
+  public static void main(String args[]){
+    Scanner sc = new Scanner(System.in);
+    String str = sc.nextLine();
+
+  }
+}

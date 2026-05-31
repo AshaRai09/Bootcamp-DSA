@@ -1,1 +1,0 @@
-// program to build prefixsum array, and then answers a range sum query

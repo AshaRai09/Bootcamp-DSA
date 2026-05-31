@@ -1,7 +1,0 @@
-import 
-public class LeaderInArray{
-  public static void main(String args[]){
-    Scanner sc = new Scanner(System.in);
-
-  }
-}
