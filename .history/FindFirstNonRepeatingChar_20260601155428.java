@@ -13,6 +13,6 @@ public  class FindFirstNonRepeatingChar{
                 return;
         }
       }
-       System.out.println("No non-repeating character found.");
+       System.out.println("No non-re");
   }
 }

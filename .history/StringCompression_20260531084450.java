@@ -1,2 +1,0 @@
-import
-public class Str

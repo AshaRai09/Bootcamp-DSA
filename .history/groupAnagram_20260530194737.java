@@ -1,2 +1,0 @@
-import ja
-public class 
