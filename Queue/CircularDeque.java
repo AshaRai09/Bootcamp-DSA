@@ -1,3 +1,11 @@
+/*
+capacity = maximum number of elements the deque can store.
+size = current number of elements in the deque.
+% capacity -- is used to wrap around the array and make it circular.
+(index + 1) % capacity -- moves one step right.
+*/
+
+
 import java.util.*;
 
 class CircularDeque {
