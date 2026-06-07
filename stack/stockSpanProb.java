@@ -1,9 +1,7 @@
 import java.util.*;
-public class permutationOfChar{
+public class stockSpanProb{
+
   public static void main(String args[]){
     Scanner sc = new Scanner(System.in);
-     String str = sc.nextLine();
-     permutation(str , "");
-
   }
 }
