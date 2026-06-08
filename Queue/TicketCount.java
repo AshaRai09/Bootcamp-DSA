@@ -12,11 +12,11 @@ class QNode {
     }
 }
 
-class Queue {
+class MyQueue {
 
     QNode front, rear;
 
-    Queue() {
+     MyQueue() {
         front = rear = null;
     }
 
@@ -45,8 +45,8 @@ public class TicketCount {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        Queue q = new Queue();
-
+        MyQueue q = new MyQueue();
+        System.out.println("Enter number of tickets:");
         int n = sc.nextInt();
         for (int i = 0; i < n; i++) {
             q.enqueue(sc.nextInt());
