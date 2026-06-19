@@ -1,3 +1,4 @@
+// Find max sum of row in a matrix and discard it while printing
 import java.util.*;
 public class MaxSumRowAndSkip{
   public static void main(String args[]){
