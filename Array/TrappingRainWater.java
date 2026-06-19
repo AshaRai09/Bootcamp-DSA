@@ -1,4 +1,5 @@
-class TrappingRainWater {
+// 11. Trapping Rainwater
+public class TrappingRainWater {
     public int trap(int[] height) {
 
         int n = height.length;
