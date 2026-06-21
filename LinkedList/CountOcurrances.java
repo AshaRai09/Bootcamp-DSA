@@ -1,3 +1,4 @@
+// Count occurrences of given key
 class Node{
   int data;
   Node next;
