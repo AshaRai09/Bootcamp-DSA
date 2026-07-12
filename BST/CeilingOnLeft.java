@@ -26,3 +26,11 @@ public class CeilingOnLeft {
         ceilingOnLeft(arr);
     }
 }
+// A TreeSet is implemented internally using a Red-Black Tree (a self-balancing Binary Search Tree).
+/*
+set.ceiling(x); // >= x
+set.floor(x);   // <= x
+set.higher(x);  // > x
+set.lower(x);   // < x
+
+*/
