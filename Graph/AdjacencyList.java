@@ -51,3 +51,9 @@ public class AdjacencyList{
         g.display();
     }
 }
+/*
+void addEdge(int u, int v) {
+    adj.get(u).add(v);
+}
+
+*/
